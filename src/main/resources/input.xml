@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student firstName="prenume" lastName="nume" grade1="1" grade2="2" grade3="3" year="1"/>
+    <Student firstName="prenumel" lastName="numescu" grade1="5" grade2="4" grade3="6" year="1"/>
+    <Student firstName="Andrei" lastName="Circei" grade1="5" grade2="9" grade3="6" year="2"/>
+    <Student firstName="George" lastName="Florin" grade1="6" grade2="4" grade3="3" year="1"/>
+</Students>
+

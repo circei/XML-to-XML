@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+   <Student name="prenume nume"
+            finalGrade="2"
+            graduated="false"
+            year="1"
+            assignedNumber="1"/>
+   <Student name="prenumel numescu"
+            finalGrade="5"
+            graduated="true"
+            year="1"
+            assignedNumber="2"/>
+   <Student name="George Florin"
+            finalGrade="4"
+            graduated="false"
+            year="1"
+            assignedNumber="3"/>
+   <Student name="Andrei Circei"
+            finalGrade="7"
+            graduated="true"
+            year="2"
+            assignedNumber="1"/>
+</Students>
